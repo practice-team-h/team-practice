@@ -1,7 +1,7 @@
 # チーム開発練習用レポジトリ
 
 
-* Ruby version<br>
+###* Ruby version<br>
 ruby 3.1
 * System dependencies
 
