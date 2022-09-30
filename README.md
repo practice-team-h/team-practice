@@ -1,9 +1,10 @@
 # チーム開発練習用レポジトリ
 
 
-###* Ruby version<br>
+* Ruby version<br>
 ruby 3.1
-* System dependencies
+* Rails version<br>
+ Rails 6.1.7
 
 * Configuration
 
