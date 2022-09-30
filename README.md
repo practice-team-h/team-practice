@@ -1,24 +1,13 @@
-# README
+# チーム開発練習用レポジトリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* Rubyバージョン<br>
+ ruby 3.1
+* Railsバージョン<br>
+ Rails 6.1.7
+ 
+* 作者<br>
+ Luke003
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 概要<br>
+ チーム開発を練習するために作成いたしました。
